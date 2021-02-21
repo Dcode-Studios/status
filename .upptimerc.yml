@@ -14,8 +14,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://bansync.dcode.site/assets/img/status_logo.png
   name: Service Status
-  introTitle: "**Dcode Studios**'s status page for our services."
-  introMessage: This is the status page for the services. 
+  introTitle: "Status for the services of **Dcode Studios**."
+  introMessage: This is the status page for our services such as the website and bot.
   navbar:
     - title: Status
       href: /
