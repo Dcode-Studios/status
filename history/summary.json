@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
+    "name": "BanSync Website",
+    "url": "https://bansync.dcode.site",
+    "icon": "https://favicons.githubusercontent.com/bansync.dcode.site",
+    "slug": "ban-sync-website",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 85,
-    "timeWeek": 85,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "time": 425,
+    "timeDay": 425,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {}
   }
 ]
